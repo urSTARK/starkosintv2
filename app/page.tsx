@@ -61,7 +61,7 @@ export default function Home() {
         <OSINTTool />
 
         <footer className="mt-8 text-center text-sm text-muted-foreground">
-          <p>Network • Identity • Financial • Hardware Intelligence</p>
+          <p>Network • Identity • Financial • Vehicle Intelligence</p>
         </footer>
       </div>
     </main>
