@@ -173,8 +173,8 @@ export default function OSINTTool() {
           <TabsTrigger value="network">Network</TabsTrigger>
           <TabsTrigger value="identity">Identity</TabsTrigger>
           <TabsTrigger value="financial">Financial</TabsTrigger>
-          <TabsTrigger value="hardware">Hardware</TabsTrigger>
-          <TabsTrigger value="leak-search">Leak Search</TabsTrigger>
+          <TabsTrigger value="hardware">Vehicle</TabsTrigger>
+          <TabsTrigger value="leak-search">Advance Search</TabsTrigger>
         </TabsList>
 
         <TabsContent value="network" className="space-y-4">
